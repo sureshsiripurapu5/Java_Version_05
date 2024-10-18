@@ -1,0 +1,9 @@
+interface A
+{
+
+	
+}	
+interface A
+{
+	
+}	

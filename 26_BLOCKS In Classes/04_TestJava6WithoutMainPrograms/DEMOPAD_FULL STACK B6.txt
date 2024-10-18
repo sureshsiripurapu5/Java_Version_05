@@ -1,0 +1,12 @@
+                                                                    STATIC MEMBERS
+                                                                  ===================
+
+
+1) STATIC (FIELD) VARIABLE
+2) STATIC METHOD
+
+1) STATIC (FIELD) VARIABLE :--
+==========================
+
+2) STATIC  METHOD :--
+==========================
